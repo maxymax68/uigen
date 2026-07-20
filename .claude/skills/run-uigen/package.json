@@ -1,0 +1,9 @@
+{
+  "name": "run-uigen-driver",
+  "private": true,
+  "type": "module",
+  "description": "Standalone Playwright driver for the run-uigen skill. Not part of the main uigen app dependency tree.",
+  "dependencies": {
+    "playwright": "^1.61.1"
+  }
+}
